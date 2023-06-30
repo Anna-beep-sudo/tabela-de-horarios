@@ -1,0 +1,57 @@
+table{
+    font-size: 20px;
+}
+
+td{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.dias{
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+}
+
+.turma{
+    writing-mode: vertical-rl;
+}
+.artes{
+    background-color: rgb(240, 185, 240);
+}
+.pp{
+    background-color: rgb(243, 188, 129);
+}
+.cn{
+    background-color: rgb(255, 186, 58);
+}
+.mat{ 
+    background-color: rgb(253, 253, 24);
+}
+.ch{
+    background-color: rgb(192, 192, 255);
+}
+.tec{
+    background-color: rgb(183, 136, 227);
+}
+.intervalo{
+    background-color: rgb(184, 184, 184);
+}
+.pv{
+    background-color: rgb(125, 222, 125);
+}
+table{
+    width: 100%;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-spacing: 0px;
+}
+
+table td{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.espaço{ 
+    text-align: center;
+    
+}
